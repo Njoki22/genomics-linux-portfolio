@@ -1,0 +1,4 @@
+project/raw/
+project/
+*.bam
+*.fastq.gz
